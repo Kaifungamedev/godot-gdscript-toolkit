@@ -14,7 +14,6 @@ STANDALONE_ANNOTATIONS = [
     "export_subgroup",
     "icon",
     "tool",
-    "warning_ignore",
 ]
 
 
